@@ -12,7 +12,7 @@
 
 # KURULUM ve ÇALIŞTIRMA
 
-* `cfg.js` dosyasını düzenleyin.
+* `ayarlar.js` dosyasını düzenleyin.
 * Eğer **Glitch** Üzerinden Açıcaksanız `.env` dosyasının içine `token:TOKEN` şeklinde tırnaksız şekilde yazınız.
 * Sonra aşağıdanki kodu komut satırına giriniz;
 
